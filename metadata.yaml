@@ -1,0 +1,33 @@
+_repo: Adventures-in-Bolivia_57364
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Cunninghame Graham, R. B. (Robert Bontine)
+    aliases:
+    - Cunninghame-Graham, Robert Bontine
+    - Graham, Robert Bontine Cunninghame
+    - Graham, Robert Gallnigad Bontine Cunninghame
+    - Graham, R. B. Cunninghame (Robert Bontine Cunninghame)
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '644'
+    url: http://www.gutenberg.org/2009/agents/644
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Cunninghame-Graham
+creator:
+  author:
+    agent_name: Prodgers, Cecil Herbert
+    gutenberg_agent_id: '49345'
+    url: http://www.gutenberg.org/2009/agents/49345
+description: ''
+gutenberg_issued: '2018-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Adventures in Bolivia
+url: http://www.gutenberg.org/ebooks/57364
