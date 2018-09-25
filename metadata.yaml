@@ -1,5 +1,5 @@
 _repo: Adventures-in-Bolivia_57364
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Cunninghame Graham, R. B. (Robert Bontine)
@@ -13,12 +13,17 @@ contributor:
     gutenberg_agent_id: '644'
     url: http://www.gutenberg.org/2009/agents/644
     wikipedia: http://en.wikipedia.org/wiki/Robert_Cunninghame-Graham
+covers:
+- cover_type: archival
+  image_path: 57364-h/images/cover.jpg
 creator:
   author:
     agent_name: Prodgers, Cecil Herbert
     gutenberg_agent_id: '49345'
     url: http://www.gutenberg.org/2009/agents/49345
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57364#Adventures-in-Bolivia
 gutenberg_issued: '2018-06-20'
 gutenberg_type: Text
 identifiers:
